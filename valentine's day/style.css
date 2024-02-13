@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    padding:0;
+}
 #container{
     display: flex;
     justify-content: center;
@@ -169,7 +173,7 @@ input{
   }
  .notes h4{
   position: absolute;
-  top: -60px;
+  top: -30px;
   left: 23px;
   font-family: 'Protest Riot', sans-serif;
  }
